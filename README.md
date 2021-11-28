@@ -11,7 +11,7 @@ I am a sailor of JavaScript developing ocean who wants to make a long trip with 
 ### <p style="color:green;">Skills:</p>
 <b>Comfortable:</b> JavaScript, ES6, React, React Router, Axios, Html5, CSS3, SCSS, Bootstrap5, Tailwind CSS, React Bootstrap, React Hook Form, Material UI, React Revel, AOS, NodeJS, Express JS, Firebase Authentication, MongoDB <br/> <b>Familiar:</b> Framer Motion, GSAP, TypeScript, JWT, React Stripe, React Spring, Map Box, Google Map, Firebase  <br/> <b>Tools:</b> Git, GitHub, VS Code, Chrome Dev Tool, Heroku, Netlify, Firebase Hosting
 
-- 🔭 I’m currently working on Self Employed 
+- 🔭 I’m currently Self Employed 
 - 🌱 I’m currently learning React, Node.js Express.JS, Next.JS, React Native 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
