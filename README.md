@@ -10,4 +10,4 @@ Skills: <br/><b>Comfortable:</b> JavaScript, ES6, React, React Router, Axios, Ht
 
 
 
-
+s
