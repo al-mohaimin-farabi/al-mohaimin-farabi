@@ -22,10 +22,17 @@ Skills:
 ---
 
 - 🔭 I’m currently Self Employed 
-- 🌱 I’m currently learning React, Node.js Express.JS, Next.JS, React Native 
+- 🌱 I’m currently learning React, Node.js Express.JS, Next.JS, React Native (Al Most Eveything 😄)
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
-- ⚡ Fun fact: I know its crazy, but I love to eat 
+- ⚡ Fun fact: I know its crazy, but I love to eat. Also love to play guiter 🎸.
+- 🎯 2021 Goals: Get a job and make my mom happy.
+
+
+
+Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact)](https://github.com/al-mohaimin-farabi/github-readme-stats)
 
