@@ -1,7 +1,9 @@
 ### Hi there 👋, I'm Al Mohaimin Farabi
 #### Web Developer
 
-[![Watch the video]()](https://youtu.be/4gJejJSwxOI)
+<div width="100%">
+<img width="100%" src="https://i.ibb.co/6v3Fd3c/Chalkboard-Welcome-Canvas-Banner.png" alt="Al Mohaimin Farabi Skill Banner"/>
+</div>
 
 I am a sailor of JavaScript developing ocean who wants to make a long trip with his HTML5, CSS3, Bootstrap5, ReactJS, NodeJs ExpressJs, MongoDB, Firebase weapon
 
