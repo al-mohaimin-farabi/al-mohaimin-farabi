@@ -6,6 +6,8 @@
 - ✍ Love to write code
 - 📖 Like to learn new things
 
+---
+
 <div width="100%">
 <img width="100%" src="https://i.ibb.co/6v3Fd3c/Chalkboard-Welcome-Canvas-Banner.png" alt="Al Mohaimin Farabi Skill Banner"/>
 </div>
