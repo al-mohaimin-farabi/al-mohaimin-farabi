@@ -1,8 +1,4 @@
-<style>
-p{
-    color:red;
-}
-</style>
+
 
 ## Hi there 👋, I'm Al Mohaimin Farabi
 ### Web Developer
@@ -22,6 +18,9 @@ I am a sailor of JavaScript developing ocean who wants to make a long trip with 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
 - ⚡ Fun fact: I know its crazy, but I love to eat 
+
+
+[![dannyverp's github stats](https://github-readme-stats.vercel.app/api?username=dannyverp&show_icons=true&theme=default)](https://github.com/dannyverp/)
 
 
 ### Connect Me 
