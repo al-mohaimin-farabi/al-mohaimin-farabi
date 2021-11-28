@@ -19,6 +19,7 @@ I am a sailor of JavaScript developing ocean who wants to make a long trip with 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
 - ⚡ Fun fact: I know its crazy, but I love to eat 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact)](https://github.com/al-mohaimin-farabi/github-readme-stats)
 
 [![dannyverp's github stats](https://github-readme-stats.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=default)](https://github.com/al-mohaimin-farabi/)
 
