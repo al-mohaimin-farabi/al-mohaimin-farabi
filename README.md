@@ -28,12 +28,6 @@ Skills:
 - ⚡ Fun fact: I know its crazy, but I love to eat. Also love to play guiter 🎸.
 - 🎯 2021 Goals: Get a job and make my mom happy.
 
-
-
-Visual Studio CodeHTML5CSS3SassJavaScriptReactGatsbyGraphQLNode.jsDenoSQLMySQLMongoDBGitGitHubTerminal
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact)](https://github.com/al-mohaimin-farabi/github-readme-stats)
 
 [![dannyverp's github stats](https://github-readme-stats.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=default)](https://github.com/al-mohaimin-farabi/)
