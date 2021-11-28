@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Al Mohaimin Farabi
 #### Web Developer
-<div style="width:100%;height:0px;position:relative;padding-bottom:25.000%;"><iframe src="https://streamable.com/e/xrss3j?autoplay=1&nocontrols=1" frameborder="0" width="100%" height="100%" allowfullscreen allow="autoplay" style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+
+[![Watch the video](https://i.ibb.co/6v3Fd3c/Chalkboard-Welcome-Canvas-Banner.png)](https://streamable.com/e/xrss3j)
 
 I am a sailor of JavaScript developing ocean who wants to make a long trip with his HTML5, CSS3, Bootstrap5, ReactJS, NodeJs ExpressJs, MongoDB, Firebase weapon
 
