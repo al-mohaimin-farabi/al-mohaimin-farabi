@@ -22,7 +22,7 @@ Skills:
 ---
 
 - 🔭 I’m currently Self Employed 
-- 🌱 I’m currently learning React, Node.js Express.JS, Next.JS, React Native (Al Most Eveything 😄)
+- 🌱 I’m currently learning React, Node.js Express.JS, Next.JS, React Native (Allmost Eveything 😄)
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
 - ⚡ Fun fact: I know its crazy, but I love to eat. Also love to play guiter 🎸.
