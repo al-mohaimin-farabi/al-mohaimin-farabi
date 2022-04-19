@@ -9,7 +9,7 @@
 ---
 
 <div width="100%">
-<img width="100%" src="https://i.ibb.co/6v3Fd3c/Chalkboard-Welcome-Canvas-Banner.png" alt="Al Mohaimin Farabi Skill Banner"/>
+<img width="100%" src="https://ibb.co/mBkWJfJ.png" alt="Al Mohaimin Farabi Skill Banner"/>
 </div>
 <br/>
 I am a sailor of JavaScript developing ocean who wants to make a long trip with his HTML5, CSS3, Bootstrap5, ReactJS, NodeJs ExpressJs, MongoDB, Firebase weapon. Learning new things is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date. I always try to stay ahead of the curve and deliver exceptional work. I am confident that I will be an excellent addition to your organization.
