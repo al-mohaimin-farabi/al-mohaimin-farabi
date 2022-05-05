@@ -17,8 +17,10 @@ I am a sailor of JavaScript developing ocean who wants to make a long trip with 
 
 ---
 
-Skills:
-<b>Comfortable:</b> JavaScript, ES6, React, React Router, Axios, Html5, CSS3, SCSS, Bootstrap5, Tailwind CSS, React Bootstrap, React Hook Form, Material UI, React Revel, AOS, NodeJS, Express JS, Firebase Authentication, MongoDB <br/> <b>Familiar:</b> Framer Motion, GSAP, TypeScript, JWT, React Stripe, React Spring, Map Box, Google Map, Firebase  <br/> <b>Tools:</b> Git, GitHub, VS Code, Chrome Dev Tool, Heroku, Netlify, Firebase Hosting
+Skills :
+<b>‣Comfortable:</b> JavaScript, ES6, React, React Router, Html5, CSS3, Bootstrap5, React Bootstrap, React Revel, AOS, Firebase Authentication, MongoDB
+<b>‣Familiar:</b> SCSS, Material UI, Tailwind CSS, React Hook Form, NodeJS, Express JS, Firebase
+<b>‣Tools:</b> Git, GitHub, VS Code, Chrome Dev Tool, Heroku, Netlify, Firebase Hosting, Figma
 
 ---
 
