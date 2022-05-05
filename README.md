@@ -17,7 +17,7 @@ I am a sailor of JavaScript developing ocean who wants to make a long trip with 
 
 ---
 
-Skills :
+<b>Skills :</b>
 
 <b>‣Comfortable:</b> JavaScript, ES6, React, React Router, Html5, CSS3, Bootstrap5, React Bootstrap, React Revel, AOS, Firebase Authentication, MongoDB
 
