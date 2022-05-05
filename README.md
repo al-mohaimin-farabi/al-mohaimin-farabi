@@ -18,6 +18,7 @@ I am a sailor of JavaScript developing ocean who wants to make a long trip with 
 ---
 
 Skills :
+
 <b>‣Comfortable:</b> JavaScript, ES6, React, React Router, Html5, CSS3, Bootstrap5, React Bootstrap, React Revel, AOS, Firebase Authentication, MongoDB
 <b>‣Familiar:</b> SCSS, Material UI, Tailwind CSS, React Hook Form, NodeJS, Express JS, Firebase
 <b>‣Tools:</b> Git, GitHub, VS Code, Chrome Dev Tool, Heroku, Netlify, Firebase Hosting, Figma
