@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Al Mohaimin Farabi
 
-- 👑 I am Web Developer
+- 👑 I am a Web Developer
 - ✍ Love to write code
 - 📖 Like to learn new things
 
