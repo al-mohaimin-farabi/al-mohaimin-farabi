@@ -13,7 +13,8 @@
 <img width="100%" src="https://i.ibb.co/KGdv6T6/Chalkboard-Welcome-Canvas-Banner.png" alt="Al Mohaimin Farabi Skill Banner"/>
 </div>
 <br/>
-I am a sailor of JavaScript developing ocean who wants to make a long trip with his HTML5, CSS3, Bootstrap5, ReactJS, NodeJs ExpressJs, MongoDB, Firebase weapon. Learning new things is truly a passion of mine. In addition to my knowledge base, I actively seek out new technologies and stay up-to-date. I always try to stay ahead of the curve and deliver exceptional work. I am confident that I will be an excellent addition to your organization.
+
+I'm Al Mohaimin Farabi, charting my course through the vast seas of JavaScript development with a primary focus on the frontend. Equipped with HTML5, CSS3, Bootstrap 5, ReactJS, and a dash of backend prowess including Node.js, Express.js, MongoDB, and Firebase, I'm prepared for an adventurous voyage into the world of web development. While my expertise lies predominantly in frontend technologies, I also possess a basic understanding of backend development, capable of crafting rudimentary CRUD APIs. My passion for learning is akin to the wind filling my sails, propelling me forward with enthusiasm. Always eager to explore new technologies, I strive to keep pace with the ever-evolving landscape of software development. With a commitment to excellence and a penchant for staying ahead of the curve, I'm confident in my ability to bring valuable contributions to your organization.
 
 ---
 
