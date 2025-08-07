@@ -20,7 +20,7 @@ I'm Al Mohaimin Farabi, charting my course through the vast seas of JavaScript d
 
 <b>Skills :</b>
 
-<b>‣Comfortable:</b> JavaScript, ES6, React, React Router, Html5, CSS3, Bootstrap5, React Bootstrap, React Revel, AOS, Firebase Authentication, MongoDB
+<b>‣Comfortable:</b> JavaScript, ES6, React, React Router, HTML5, CSS3, Bootstrap5, React Bootstrap, React Revel, AOS, Firebase Authentication, MongoDB
 
 <b>‣Familiar:</b> SCSS, Material UI, Tailwind CSS, React Hook Form, NodeJS, Express JS, Firebase
 
@@ -28,11 +28,11 @@ I'm Al Mohaimin Farabi, charting my course through the vast seas of JavaScript d
 
 ---
 
-- 🔭 I’m currently Self Employed 
-- 🌱 I’m currently learning React, Node.js Express.JS, Next.JS, React Native (Allmost Eveything 😄)
+- 🔭 I’m currently self-employed 
+
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
-- ⚡ Fun fact: I know its crazy, but I love to eat. Also love to play guiter 🎸.
+- ⚡ Fun fact: I know it's crazy, but I love to eat. Also love to play guitar 🎸.
 - 🎯 2021 Goals: Get a job and make my mom happy.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact)](https://github.com/al-mohaimin-farabi/github-readme-stats)
