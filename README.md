@@ -33,7 +33,7 @@ I'm Al Mohaimin Farabi, charting my course through the vast seas of JavaScript d
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: almohaiminfarabi.work@gmail.com 
 - ⚡ Fun fact: I know it's crazy, but I love to eat. Also love to play guitar 🎸.
-- 🎯 2021 Goals: Get a job and make my mom happy.
+- 🎯 2021 Goals: Learning System Design.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact)](https://github.com/al-mohaimin-farabi/github-readme-stats)
 
