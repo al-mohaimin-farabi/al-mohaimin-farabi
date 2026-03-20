@@ -3,7 +3,7 @@
 ### Full-Stack Software Developer | Continuous Learner
 
 <div width="100%">
-  <img width="100%" src="https://i.ibb.co/KGdv6T6/Chalkboard-Welcome-Canvas-Banner.png" alt="Al Mohaimin Farabi Skill Banner"/>
+  <img width="100%" src="https://i.ibb.co.com/B5HpyQL2/Red-Black-Geometric-Gamer-Youtube-Banner.png" alt="Al Mohaimin Farabi Skill Banner"/>
 </div>
 <br/>
 
