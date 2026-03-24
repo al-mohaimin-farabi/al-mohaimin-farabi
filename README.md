@@ -55,17 +55,17 @@ My technical journey has evolved from crafting intuitive interfaces to engineeri
 
 ### 🤝 Connect With Me
 
-<p align="left" style="background:white">
+<p align="left">
   <a href="https://github.com/al-mohaimin-farabi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/almohaiminfarabi/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="35" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;">
   </a>
   <a href="https://stackoverflow.com/users/15750637/al-mohaimin-farabi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="StackOverflow" height="35" style="margin-right: 15px;">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" style="margin-right: 10px;">
   </a>
   <a href="https://www.facebook.com/almohaimin.farabi" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="35">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
