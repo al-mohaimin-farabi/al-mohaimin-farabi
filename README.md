@@ -25,7 +25,7 @@ My technical journey has evolved from crafting intuitive interfaces to engineeri
 * **Server-Side & Security:** Node.js, Express.js, Passport.js
 * **Databases:** PostgreSQL, MongoDB
 * **ORMs & Tools:** Prisma, Firebase (Auth/Hosting)
-* **Real-Time & Media:** Mediasoup (WebRTC)
+* **Real-Time & Media:** Mediasoup (WebRTC), Socket IO
 
 **DevOps, Architecture & Tools:**
 * **Deployment & Infrastructure:** Coolify, Heroku, Netlify, Vercel
