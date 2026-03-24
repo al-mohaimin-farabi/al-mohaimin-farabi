@@ -55,7 +55,7 @@ My technical journey has evolved from crafting intuitive interfaces to engineeri
 
 ### 🤝 Connect With Me
 
-<p align="left">
+<p align="left" style="background:white">
   <a href="https://github.com/al-mohaimin-farabi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="35" style="margin-right: 15px;">
   </a>
