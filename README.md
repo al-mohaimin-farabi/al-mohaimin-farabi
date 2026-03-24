@@ -62,6 +62,9 @@ My technical journey has evolved from crafting intuitive interfaces to engineeri
   <a href="https://www.linkedin.com/in/almohaiminfarabi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;">
   </a>
+  <a href="mailto:almohaiminfarabi.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-right: 10px;">
+  </a>
   <a href="https://x.com/FarabiCodes" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-right: 10px;">
   </a>
