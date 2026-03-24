@@ -62,8 +62,8 @@ My technical journey has evolved from crafting intuitive interfaces to engineeri
   <a href="https://www.linkedin.com/in/almohaiminfarabi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 10px;">
   </a>
-  <a href="https://stackoverflow.com/users/15750637/al-mohaimin-farabi" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" style="margin-right: 10px;">
+  <a href="https://x.com/FarabiCodes" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" style="margin-right: 10px;">
   </a>
   <a href="https://www.facebook.com/almohaimin.farabi" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
