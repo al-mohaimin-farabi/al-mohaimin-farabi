@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/30149332/README.1.md)
 # Hi there 👋, I'm Al Mohaimin Farabi
 
 ### Full-Stack Software Developer | Continuous Learner
@@ -40,17 +39,20 @@ Currently, I'm the technical co-founder of an ERP SaaS product for the Banglades
 
 ### 🚀 Featured Projects
 
-**[FaceCam 2.0](https://almohaiminfarabi.vercel.app/work/facecam)** — `WebRTC` `MediaSoup SFU` `Next.js` `React Native` `Node.js`
-Real-time esports face-cam broadcasting system streaming **64 simultaneous player webcams** through a custom MediaSoup SFU, with per-tournament routing, adaptive simulcast encoding, four-tier role dashboards (Owner / Admin / Marshal / Player), instant vMix/OBS production switching, and a React Native Android app with a live RTT / bitrate / packet-loss / FPS monitoring HUD.
+**[FaceCam 2.0](https://facecam.ecube.gg/)** — `WebRTC` `MediaSoup SFU` `Next.js` `React Native` `Node.js`
+Zero-latency broadcasting platform streaming **64 simultaneous player webcams** for esports tournaments, via a custom MediaSoup SFU with per-tournament isolated routing, adaptive simulcast encoding, four-tier role dashboards (Owner / Admin / Marshal / Player), and instant vMix/OBS switching with no black screen. Shipped alongside a React Native Android broadcast client with live RTT/bitrate/packet-loss/FPS HUD.
 
-**[Matchable](https://matchable.io)** — `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui`
-Frontend of a sports booking platform: responsive booking flows, schedule views, trainer dashboards, and REST API–integrated pages.
+**[MultiPixel Studio](https://www.multipixelstudio.com/)** — `Next.js` `Full-Stack` `Agency`
+A creative and tech studio's marketing site — a modular, conversion-optimized platform showcasing six service verticals (web, software, mobile, video, design, marketing) that has helped deliver 12+ client projects across Bangladesh, the USA, UK, and Australia.
 
-**[GM Portfolio](https://galib-mahin-portfolio.vercel.app)** — `Next.js` `Three.js` `React Three Fiber` `GSAP`
-Portfolio site featuring 3D backgrounds, spring-physics drag-to-reorder, and accessible keyboard navigation.
+**[R. Patwary Enterprise](https://www.rpatwaryenterprise.com/)** — `Next.js` `MongoDB` `Admin CMS` `ISR`
+Bengali-first corporate and product-catalog site with real-time search/filtering, lead-generation flows, and a drag-and-drop admin CMS (MongoDB + Cloudinary). Uses ISR with tag-based on-demand revalidation, so admin edits go live instantly without a full rebuild.
 
-**[VikingTasks](https://vikingtasks.com)** — `Next.js` `TypeScript` `Resend`
-Responsive website for a remote workforce agency, with Resend-powered email handling for client inquiries.
+**[Matchable](https://matchable.io)** — `Next.js` `NestJS` `Marketplace`
+Dual-sided sports/fitness marketplace: multi-tenant scheduling engine preventing double-booking, trainer/venue dashboards, Stripe payments, and a digital voucher wallet system.
+
+**[Bangladesh 2024 Archive](https://bangladesh2024.info/)** — `Next.js` `PostgreSQL` `Community Contribution`
+Crowdsourced digital archive preserving the July Revolution: searchable martyr/casualty registry, timeline-based multimedia CMS, full Bengali localization, and optimized for low-bandwidth mobile networks.
 
 ---
 
@@ -70,9 +72,17 @@ Responsive website for a remote workforce agency, with Resend-powered email hand
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended-farabi.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact&count_private=true" alt="Top Languages" />
+  <img src="https://github-stats-extended-farabi.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended-farabi.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-farabi.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=al-mohaimin-farabi&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=al-mohaimin-farabi&label=Profile+Views&color=1a1b27&style=flat" alt="Profile Views" />
 </p>
 
 ---
