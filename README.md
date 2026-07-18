@@ -40,7 +40,7 @@ Currently, I'm the technical co-founder of an ERP SaaS product for the Banglades
 ### 🚀 Featured Projects
 
 **[FaceCam 2.0](https://facecam.ecube.gg/)** — `WebRTC` `MediaSoup SFU` `Next.js` `React Native` `Node.js`
-Zero-latency broadcasting platform streaming **64 simultaneous player webcams** for esports tournaments, via a custom MediaSoup SFU with per-tournament isolated routing, adaptive simulcast encoding, four-tier role dashboards (Owner / Admin / Marshal / Player), and instant vMix/OBS switching with no black screen. Shipped alongside a React Native Android broadcast client with live RTT/bitrate/packet-loss/FPS HUD.
+Low-latency broadcasting platform streaming **64 simultaneous player webcams** for esports tournaments, via a custom MediaSoup SFU with per-tournament isolated routing, adaptive simulcast encoding, four-tier role dashboards (Owner / Admin / Marshal / Player), and instant vMix/OBS switching with no black screen. Shipped alongside a React Native Android broadcast client with live RTT/bitrate/packet-loss/FPS HUD.
 
 **[MultiPixel Studio](https://www.multipixelstudio.com/)** — `Next.js` `Full-Stack` `Agency`
 A creative and tech studio's marketing site — a modular, conversion-optimized platform showcasing six service verticals (web, software, mobile, video, design, marketing) that has helped deliver 12+ client projects across Bangladesh, the USA, UK, and Australia.
