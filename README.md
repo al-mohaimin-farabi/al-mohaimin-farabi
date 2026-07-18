@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/30127873/README.md)
+[README (1).md](https://github.com/user-attachments/files/30149332/README.1.md)
 # Hi there 👋, I'm Al Mohaimin Farabi
 
 ### Full-Stack Software Developer | Continuous Learner
@@ -70,9 +70,9 @@ Responsive website for a remote workforce agency, with Resend-powered email hand
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact&count_private=true" alt="Top Languages" />
+  <img src="https://github-stats-extended-farabi.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact&count_private=true" alt="Top Languages" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-farabi.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
