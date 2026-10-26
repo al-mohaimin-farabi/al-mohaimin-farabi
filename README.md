@@ -54,7 +54,7 @@ Dual-sided sports/fitness marketplace: multi-tenant scheduling engine preventing
 **[Bangladesh 2024 Archive](https://bangladesh2024.info/)** — `Next.js` `PostgreSQL` `Community Contribution`
 Crowdsourced digital archive preserving the July Revolution: searchable martyr/casualty registry, timeline-based multimedia CMS, full Bengali localization, and optimized for low-bandwidth mobile networks.
 
-**[CCTB — Chattogram Centre for Technology & Business](https://cctbcentre.org/)** — `Next.js` `TypeScript` `Prisma` `Tailwind CSS` `shadcn/ui` `Docker`
+**[CCTB — Chattogram Centre for Technology & Business](https://cctbcentre.org/)** — `Next.js` `TypeScript` `ISR` `Booking System` `PostgreSQL` `Prisma` `Tailwind CSS` `shadcn/ui` `PUCK` `Docker`
 Website and booking platform for a Chattogram learning, coworking and community hub: course listings with enrolment status, event registration, bookable classroom/studio/workstation spaces with a booking-status lookup, community membership tiers, and newsletter signup.
 
 ---
