@@ -75,7 +75,7 @@ Website and booking platform for a Chattogram learning, coworking and community 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-stats-extended-farabi.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended-farabi.vercel.app/api?username=al-mohaimin-farabi&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-stats-extended-farabi.vercel.app/api/top-langs/?username=al-mohaimin-farabi&layout=compact&theme=tokyonight&count_private=true" alt="Top Languages" />
 </p>
